@@ -1,0 +1,24 @@
+{
+    "name": "platinum/laravel-admin",
+    "description": "This package automates the creation of an admin model and sets up admin authentication.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Platinum\\LaravelAdmin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Platinum",
+            "email": "platinumemirate@gmail.com"
+        }
+    ],
+    "require": {},
+    "extra": {
+      "laravel": {
+          "providers": [
+              "Platinum\\LaravelAdmin\\LaravelAdminServiceProvider"
+          ]
+      }
+    }
+}
