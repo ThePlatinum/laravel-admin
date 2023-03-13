@@ -39,14 +39,14 @@ I suggest using the [Spatie laravel-permission](https://spatie.be/docs/laravel-p
 
 
 ## Contributions
-Contributions are **welcome** via Pull Requests on [Github](https://github.com/ThePlatinum/english-permutation).
+Contributions are **welcome** via Pull Requests on [Github](https://github.com/ThePlatinum/laravel-admin).
 - Please document any change you made as neccesary in the [README.md](README.md).
 - Pleas make only one pull request per feature/fix.
 - Please check the [Upcoming improvements](#improvements) section for ideas on what you can help with.
 
 
 ## Issues
-This is my first laravel package, so, you may find it not perfect. Please report any issue you encounter in using the package through the issues tab [Github Issues](https://github.com/ThePlatinum/english-permutation/issues)
+This is my first laravel package, so, you may find it not perfect. Please report any issue you encounter in using the package through the issues tab [Github Issues](https://github.com/ThePlatinum/laravel-admin/issues)
 
 
 <div id='improvements'></div>
@@ -68,4 +68,4 @@ This is my first laravel package, so, you may find it not perfect. Please report
 Laravel Admin includes security features to help protect your application. These features include authentication, authorization, and password hashing. However, it is still important to follow best practices for securing your application, such as using strong passwords and keeping your application up-to-date with the latest security patches.
 
 ## Credits
-Laravel Admin was created by [Emmanuel Adesina]() and is licensed under the [MIT license](LICENSE.md).
+Laravel Admin was created by [Emmanuel Adesina](https://emmannueldesina.vercel.app/) and is licensed under the [MIT license](LICENSE.md).
